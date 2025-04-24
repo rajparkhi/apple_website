@@ -1,7 +1,15 @@
-const App = () => {
-  const [count, setCount] = useState(0);
+import Hero from "./components/Hero";
+import HightLights from "./components/HightLights";
+import Navbar from "./components/Navbar";
 
-  return <h1 className="text-3xl font-bold underline">Hello world!</h1>;
+const App = () => {
+  return (
+    <main className="bg-black">
+      <Navbar />
+      <Hero />
+      <HightLights />
+    </main>
+  );
 };
 
 export default App;
