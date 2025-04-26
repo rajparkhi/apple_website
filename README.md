@@ -6,7 +6,7 @@ A pixel-perfect **React** application that clones the design and interactive fee
 
 ## 🚀 Demo
 
-> [Live Demo Link](#) _(Coming Soon)_
+> _(Coming Soon)_
 
 ---
 
@@ -94,7 +94,23 @@ apple-website/
 
 ## 💎 Screenshots
 
-> _(Add screenshots of your homepage, animation sections, and responsive views here)_
+### Homepage
+
+![Hero Section](public/screenshots/Hero-Section.png)
+
+### Product Section1
+
+![Product Section1](public/screenshots/product-section1.png)
+
+![Product Section1](public/screenshots/product-section2.png)
+
+### Product Section2
+
+![Product Section1](public/screenshots/Product-section3.png)
+
+### Video Carousel
+
+![Product Section1](public/screenshots/Video-carousel.png)
 
 ---
 
